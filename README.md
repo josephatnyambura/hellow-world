@@ -1,2 +1,2 @@
 # hellow-world
-just another repository
+I am loving this platform because it makes working on a project more organised.
